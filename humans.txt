@@ -1,0 +1,10 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  Harish Venkataramani -- Developer
+
+# TECHNOLOGY COLOPHON
+
+  HTML, CSS, JAVASCRIPT

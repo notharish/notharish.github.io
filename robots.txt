@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /exp/
+Disallow: /lab/
+Disallow: /test/
+
+Sitemap: https://www.harishv.com/sitemap.xml
